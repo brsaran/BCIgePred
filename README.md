@@ -12,7 +12,7 @@ Linear B-Cell IgE Predictor
    (b) Extract the files to the desired location.
    (c) Provide executable permission to LIgE, IgEPred, and LBEEP files (if it doesn't have executable rights).
    (d) Create folder named "temp" and provide read and write permission to "temp" folder .
-   (e) make sure java 1.6 or higher is installed in your system.
+   (e) make sure java 1.6 is installed in your system.
    (f) make sure PERL 5.0 or higher version is installed in your system.
    
    Windows and other operating system
